@@ -7,6 +7,7 @@ body {
     color: aliceblue;
     text-align: center;
     margin: 0;
+    font-family: Arial, serif;
 }
 header{
     font-family: "Courier New", serif ;
@@ -17,7 +18,7 @@ main {
     margin: auto;
     text-align: center;
     padding:  15px 20px 7px 20px  ;
-    font-family: Arial, serif;
+
     font-size: 13px;
     position: relative;
 }
